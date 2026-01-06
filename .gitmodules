@@ -7,3 +7,6 @@
 [submodule "03-expense-tracker-api"]
 	path = 03-expense-tracker-api
 	url = https://github.com/anasfarrouk/expense-tracker-api.git
+[submodule "04-markdown-note-taking"]
+	path = 04-markdown-note-taking
+	url = https://github.com/anasfarrouk/markdown-note-taking.git
