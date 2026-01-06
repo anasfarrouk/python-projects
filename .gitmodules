@@ -1,3 +1,6 @@
 [submodule "01-todo-list-api"]
 	path = 01-todo-list-api
 	url = https://github.com/anasfarrouk/todo-list-api.git
+[submodule "02-blogging-platform-api"]
+	path = 02-blogging-platform-api
+	url = https://github.com/anasfarrouk/blogging-platfrom-api.git
