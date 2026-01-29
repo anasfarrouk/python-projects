@@ -13,3 +13,6 @@
 [submodule "05-caching-proxy-server"]
 	path = 05-caching-proxy-server
 	url = https://github.com/anasfarrouk/caching-proxy.git
+[submodule "06-ecommerce-api"]
+	path = 06-ecommerce-api
+	url = https://github.com/anasfarrouk/ecommerce-api.git
