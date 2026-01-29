@@ -16,6 +16,3 @@
 [submodule "ecommerce-api"]
 	path = ecommerce-api
 	url = https://github.com/anasfarrouk/ecommerce-api.git
-[submodule "06-ecommerce-api"]
-	path = 06-ecommerce-api
-	url = https://github.com/anasfarrouk/ecommerce-api.git
